@@ -1,0 +1,20 @@
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+
+.box{
+    width: 150px;
+    height: 100px;
+    background-color: green;
+    margin: 4px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 25px;
+}
